@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+bookrec.venv/
+.env/
+venv/
+
+# OS junk
+.DS_Store
+
+# CSV data files
+cleaned_books.csv
+final_books.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# VSCode / IDE
+.vscode/
+.idea/
