@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+bookrev_venv/
+*.env
+
+# MacOS
+.DS_Store
+
+cleaned_books.csv
+final_books.csv
