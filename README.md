@@ -1,4 +1,4 @@
-### Semantic Book Recommender
+# Semantic Book Recommender
 
 The Semantic Book Recommender is an intelligent book recommendation system powered by NLP techniques, Hugging Face models, and a Kaggle books dataset. Unlike traditional recommenders that rely only on metadata, this project leverages semantic embeddings, zero-shot classification, and sentiment analysis to provide recommendations tailored to the user’s query, desired category, and emotional tone.
 
