@@ -46,19 +46,19 @@ The Semantic Book Recommender is an intelligent book recommendation system power
 ## 🛠️ Installation & Setup
 
 1. Clone this repository:
-    git clone https://github.com/AA-KH/Semantic-Book-Recommender.git
-    cd Semantic-Book-Recommender
+git clone https://github.com/AA-KH/Semantic-Book-Recommender.git
+cd Semantic-Book-Recommender
 
 2. Create a virtual environment:
-    python3 -m venv bookrec_venv
-    source bookrec_venv/bin/activate   # Mac/Linux
-    bookrec_venv\Scripts\activate      # Windows
+python3 -m venv bookrec_venv
+source bookrec_venv/bin/activate # Mac/Linux
+bookrec_venv\Scripts\activate # Windows
 
 3. Install dependencies:
-    pip install -r requirements.txt
+pip install -r requirements.txt
 
 4. Run the application:
-    python frontend.py
+python frontend.py
 
 ## 📊 Tech Stack
 
